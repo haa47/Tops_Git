@@ -1,0 +1,2 @@
+food,100.00
+travelling,300.00
